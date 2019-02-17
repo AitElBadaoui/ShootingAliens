@@ -8,6 +8,6 @@ A small game i'm doing for learning Design patterns.
 
 ## Runs the app
 ```
-java -jar Uca.jar
+java -jar ShootingAliens.jar
 
 ```
