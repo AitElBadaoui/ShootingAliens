@@ -6,7 +6,7 @@ A small game i'm doing for learning Design patterns.
   <img  src="https://i.imgur.com/A4YMDeo.png">
 </p>
 
-### Runs the app
+### Runs the game
 ```
 java -jar ShootingAliens.jar
 
