@@ -1,5 +1,5 @@
 ### ShootingAliens
-A small game i'm doing for learning Design patterns.
+A small game i made to learn Design patterns.
 
 ### Conception 
 <p align="center">
