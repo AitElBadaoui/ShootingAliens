@@ -1,12 +1,12 @@
 ### ShootingAliens
 A small game i made to learn Design patterns.
 
-### Conception 
+### Design : 
 <p align="center">
   <img  src="https://i.imgur.com/A4YMDeo.png">
 </p>
 
-### Runs the game
+### To start the game :
 ```
 java -jar ShootingAliens.jar
 
